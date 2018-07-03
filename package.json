@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/imooc/vuejs.git"
+    "url": "git+ssh://git@github.com:ThunderLightGod/Vue_JD_Financial.git"
   },
   "keywords": [
     "es6",
