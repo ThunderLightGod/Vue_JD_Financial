@@ -14,7 +14,7 @@
 - [前端跳槽面试必备技巧](https://coding.imooc.com/class/129.html)
 - [前端成长必经之路：组件化思维与技巧](https://coding.imooc.com/class/175.html)
 - [Web安全](https://www.imooc.com/learn/812)
-
+- [视频下载]（https://u14538876.pipipan.com/u/14538876/28732864）
 
 ### 博客推荐
 
